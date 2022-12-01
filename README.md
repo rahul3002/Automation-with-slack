@@ -1,8 +1,8 @@
-# Automation with the Slack API in Python
+# Automate Slack Messaging using Python and Docker
  
+Automating Slack messaging using Python and Docker
 
-## What is Slack?
-Slack is a communication application. It can help us connect with employees, customers, and partners. It allows teams to collaborate with images, videos and voice messages. It also allows huddles across teams, time zones, and physical spaces. The Slack API has allowed it to become a highly integrated tool that fits well with other commonly used software like Jira and Google Calendar. By following this course, you can make your application more integrated by incorporating Slack’s API. If you want to integrate your application with the Slack API, this is for you.
+In this tutorial, we'll be automating Slack messaging using Python and Docker. We'll start by setting up our environment, installing the required packages, and creating an image for our application. Then we'll write a script to send messages from a Slack channel to multiple recipients via email or SMS. Finally, we'll run our script on the server to test it out!
 
 ## Slack API
 The Slack API helps automate repetitive tasks by providing programmatic access to Slack’s functionality. Slack also has excellent documentation with a built-in tool to test the individual endpoints.
